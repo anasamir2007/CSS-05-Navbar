@@ -1,4 +1,23 @@
 .contaner{
-    background-color: black;
+    background-color: rgb(170, 160, 160);
+width: 80%;
+margin:auto;
+padding-bottom: 30px;
+}
+.navbar{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    background-color: black
+    ;
+}
+.navbar a{
+color: white;
+text-decoration: none;
+margin-right: 15px;
+
+}
+p{
+    margin-left: 15px;
 
 }
